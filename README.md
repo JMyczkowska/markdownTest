@@ -11,8 +11,8 @@
 ## Lists
 
 1. Ordered list item
-2. Another item in the list
-  *Unordered sub list needs two spaces and an asterisk
+2. Another item in the list  
+  * Unordered sub list needs two spaces and an asterisk
 
    indented paragraph needs three spaces in front
 
