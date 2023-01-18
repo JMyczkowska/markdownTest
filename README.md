@@ -39,6 +39,7 @@ let s = "JavaScript syntax highlighting";
 
 ## Horizontal Lines
 three or more hyphens (-) or underscores (_)
+
 ---
 
 ## Other stuff
