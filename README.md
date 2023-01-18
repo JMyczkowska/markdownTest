@@ -2,19 +2,22 @@
 
 ## Emphasis
 
-*italics* with *asterisks or _italics_ with underscores_
+*italics* with asterisks* or _italics_ with underscores_
+
 **bold** with two *asterisks
+
 **_combined_** with both
 
 ## Lists
 
 1. Ordered list item
 2. Another item in the list
-..* Unordered sub list
+  *Unordered sub list needs two spaces and an asterisk
 
-...indented paragraph
-...to have line break without paragraph add two trailing spaces  
-...does it work?
+   indented paragraph needs three spaces in front
+
+   to have line break without paragraph add two trailing spaces  
+   does it work?
 
 ## Links
 
@@ -24,14 +27,14 @@
 
 inline `code` has back-ticks ` around it
 
-blocks of code should be wrapped with three back-ticks
+blocks of code should be wrapped with three back-ticks,
 for example:
 ```
 let s = "JavaScript syntax highlighting";
 ```
 
 ## Blockquotes
->Blockquotes look like description text or a quote
+>Blockquotes look like description text or a quote  
 >they are created with right pointing arrow
 
 ## Horizontal Lines
